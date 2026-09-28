@@ -1,0 +1,6 @@
+{
+  "name": "GoGamya MCDA Decision Engine",
+  "description": "Deterministic travel decision engine powered by Multi-Criteria Decision Analysis (MCDA), lifespan goal compounding, and intelligent scenario simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
